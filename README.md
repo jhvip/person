@@ -59,10 +59,10 @@
 
 ## 参考技能关键字
 
-- ios(1383)
-- objective c(286)
-- ui(153)
-- json(51)
+- iOS
+- Objective C
+- UI
+- JSON
 
 ---
 
